@@ -13,8 +13,6 @@ The ModelNet40 and ShapeNetPart dataset will be automatically downloaded. For [S
 
 ## Performance
 * Accuracy on **ModelNet40** under rotation: 
-* Accuracy on **ScanObjectNN** OBJ_BG classification under rotation:
-
 | z/z | z/SO(3)  | SO(3)/SO(3) |
 | :---: | :---: | :---: |
 | 91.2% | 89.9% | 91.3% |
@@ -23,7 +21,8 @@ The ModelNet40 and ShapeNetPart dataset will be automatically downloaded. For [S
  
 |  z/SO(3)  |
 | :--- |
-| Class mIOU  | 81.2% | 
+| Class mIOU  |
+|81.2% | 
 
 
 ```
